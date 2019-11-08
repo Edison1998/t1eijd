@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">t1eijd</string>
+    <string name="titulo1">OPERACIONES BASICAS</string>
+    <string name="textTitulo">Selecciona una opcion</string>
+    <string name="opciones">1.-Suma\n2.-Resta\n3.-Multiplicacion\n4.-Division</string>
+    <string name="boton">Continuar</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multi">Multiplicacion</string>
+    <string name="divi">Division</string>
+    <string name="v1">Valor 1</string>
+    <string name="v2">Valor 2</string>
+    <string name="res">Resolver</string>
+    <string name="menu">Menu</string>
+</resources>
